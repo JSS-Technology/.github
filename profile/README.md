@@ -36,8 +36,9 @@ We are a team of engineers based in Lebanon, building production-grade software 
 
 Have a project in mind or need expert guidance? We offer a **free consultation**, no strings attached.
 
-| | |
-|---|---|
-| 🌐 Website | [jss.technology](https://www.jss.technology) |
-| 📅 Schedule | [Book a free 30-min call](https://calendly.com/jad-jss/30min) |
-| 💼 LinkedIn | [linkedin.com/company/jss-technology](https://www.linkedin.com/company/jss-technology/) |
+| &nbsp; | Details | Link |
+|---|---|---|
+| 🌐 | **Website** | [jss.technology](https://www.jss.technology) |
+| 🛠️ | **Our Stack** | [github.com/jss-technology/jss-stack](https://github.com/jss-technology/jss-stack) |
+| 📅 | **Schedule** | [Book a free 30-min call](https://calendly.com/jad-jss/30min) |
+| 💼 | **LinkedIn** | [linkedin.com/company/jss-technology](https://www.linkedin.com/company/jss-technology/) |
